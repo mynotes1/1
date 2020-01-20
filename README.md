@@ -8,9 +8,9 @@
     <a href="mynotes.html"> <h2>BACHELOR OF ENGINEERING  <br>(B E) </h2></a>
      <br>
      <br>
-     <a href="mynotes.html"> <h2> BACHELOR OF COMPUTER APPLICATIONS <br>(B E) </h2></a>
+     <a href="mynotes.html"> <h2> BACHELOR OF COMPUTER APPLICATIONS <br>(B A) </h2></a>
      <br>
-     <a href="mynotes.html"> <h2> BACHELOR OF SCIENCE <br>(B.SC.) <br>(B E) </h2></a>
+     <a href="mynotes.html"> <h2> BACHELOR OF SCIENCE <br>(B.SC.)  </h2></a>
      <br>
 </body>
 </html>
