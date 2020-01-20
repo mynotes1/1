@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="mynotes.css">
+<link rel="stylesheet" href="index.css">
 </head>
 <body>
    <h1>sdvghjsdfgsdfgh</h1>
