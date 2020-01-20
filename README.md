@@ -14,7 +14,7 @@ pre.error{
 <meta name="google-site-verification" content="QPMsUk9CrL-BFlVA7e4qY0u5tReCubnWPxOwf3Yestw" />
 </head>
 <body>
-    <a href="myname.html" target="_top"><b>FreeWebSubmission.com</b></a>
+    <a href="myname.html" target="_self"><b>FreeWebSubmission.com</b></a>
     <h1  > the man was goging to the forest </h1>
     <button onclick="function()">rasltvertvyre</button>
     <script>
@@ -22,7 +22,7 @@ pre.error{
     </script>
      bac
     <pre class="ereror">
-    the lucky asdghfsdafjhbsdfbhksdafbkbsdfkb
+    the lakshmi asdghfsdafjhbsdfbhksdafbkbsdfkb
         Surnames are taken as the first part of an person's inherited family name, caste, clan name or in some cases patronymic
 Name distribution statistics are generated from a global database of over 4 billion people - more information
 Heatmap: Dark red means there is a higher occurrence of the name, transitioning to light yellow signifies a progressively lower occurrence. Clicking on selected countries will show mapping at a regional level
