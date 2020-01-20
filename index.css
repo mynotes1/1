@@ -5,19 +5,20 @@ h1{
 body{
   background-color:green;
   }
-h2{
+
+ h2:hover{
      text-align:center;
-      color:blue;
-      background-color:yellow;
+      color:green;
+      background-color:salmon;
       padding:01cm;
        border:solid red 0.5cm;
       color:blue;
       margin:1cm 0cm 1cm 0cm;
   }
- h2:hover{
+h2{
      text-align:center;
-      color:green;
-      background-color:salmon;
+      color:blue;
+      background-color:yellow;
       padding:01cm;
        border:solid red 0.5cm;
       color:blue;
