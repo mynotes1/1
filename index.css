@@ -1,33 +1,25 @@
-input{
-background-color:white;
-border:solid green 0.1cm;
-padding:12;
+h1{
+   text-align:center;
+   color:red;
 }
 body{
-background-image:url(sit);
-background-attachment:fixed;
-}
-h1{
- text-align:center;
- color:green;
- background-color:red;
- 
-}
-p{
-text-align:center;
-color:blue;
-background-reapt:no-reapt;
-background-color:pink;
-padding:0.5cm;
-border:solid green 0.3cm;
-}
-em{
-text-align:center;
- color:red;
- background-color:yellow;
-}
-i{
-text-align:center;
- color:red;
-}
-
+  background-color:green;
+  }
+h2{
+     text-align:center;
+      color:blue;
+      background-color:yellow;
+      padding:01cm;
+       border:solid red 0.5cm;
+      color:blue;
+      margin:1cm 0cm 1cm 0cm;
+  }
+ h2:hover{
+     text-align:center;
+      color:green;
+      background-color:salmon;
+      padding:01cm;
+       border:solid red 0.5cm;
+      color:blue;
+      margin:1cm 0cm 1cm 0cm;
+  }
