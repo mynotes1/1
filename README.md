@@ -5,7 +5,7 @@
 <body>
      <h1> SELECT THE COURSES </h1>
      <br>
-    <a href="mynotes.html" target="_top" > <h2>BACHELOR OF ENGINEERING  <br>(B E) </h2>
+    <a href="https://www.w3schools.com/tags/tag_embed.asp"> <h2>BACHELOR OF ENGINEERING  <br>(B E) </h2></a>
      <br>
      <br>
     <h2>BACHELOR OF COMPUTER APPLICATIONS <br> (B A)</h2>
@@ -14,4 +14,3 @@
      <br>
 </body>
 </html>
-
