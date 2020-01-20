@@ -14,7 +14,7 @@ pre.error{
 <meta name="google-site-verification" content="QPMsUk9CrL-BFlVA7e4qY0u5tReCubnWPxOwf3Yestw" />
 </head>
 <body>
-    <a href="myname.html" target="_self"><b>FreeWebSubmission.com</b></a>
+    <a href="mynotes2.html"><b>FreeWebSubmission.com</b></a>
     <h1  > the man was goging to the forest </h1>
     <button onclick="function()">rasltvertvyre</button>
     <script>
