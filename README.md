@@ -10,7 +10,7 @@
      <br>
      <a href="mynotes.html"> <h2> BACHELOR OF COMPUTER APPLICATIONS <br>(B E) </h2></a>
      <br>
-     <h2>B.SC</h2>
+     <a href="mynotes.html"> <h2> BACHELOR OF SCIENCE <br>(B.SC.) <br>(B E) </h2></a>
      <br>
 </body>
 </html>
