@@ -3,9 +3,9 @@
 <link rel="stylesheet" href="index.css">
 </head>
 <body>
-   <h1>sdvghjsdfgsdfgh</h1>
-    <p>zjdgvfasgdfagdsfhg</p>
-    <p>zjdgvfasgdfagdsfhg</p>
+   <h1>BACHELOR OF ENGINEERING (B E) </h1>
+    <h2>BACHELOR OF COMPUTER APPLICATIONS(B A)</h2>
+    <h2>B.SC</h2>
 </body>
 </html>
 
